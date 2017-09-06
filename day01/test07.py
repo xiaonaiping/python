@@ -10,7 +10,7 @@ import time
 def dealCaptcha(captchaData):
     with open("captchaPic.jpg", "wb") as f:
         f.write(captchaData)
-        # text= raw_input("请输入验证码：1111111111111111111111111111111")
+        # text= raw_input("请输入验证码：1111111111111111111111111111111王新超")
         # return text
 
 
